@@ -1,0 +1,8 @@
+C:\Practice program\BankTransproject\BankTransproject\bin\Debug\BankTransproject.exe.config
+C:\Practice program\BankTransproject\BankTransproject\bin\Debug\BankTransproject.exe
+C:\Practice program\BankTransproject\BankTransproject\bin\Debug\BankTransproject.pdb
+C:\Practice program\BankTransproject\BankTransproject\obj\Debug\BankTransproject.csproj.AssemblyReference.cache
+C:\Practice program\BankTransproject\BankTransproject\obj\Debug\BankTransproject.csproj.SuggestedBindingRedirects.cache
+C:\Practice program\BankTransproject\BankTransproject\obj\Debug\BankTransproject.csproj.CoreCompileInputs.cache
+C:\Practice program\BankTransproject\BankTransproject\obj\Debug\BankTransproject.exe
+C:\Practice program\BankTransproject\BankTransproject\obj\Debug\BankTransproject.pdb
